@@ -1,4 +1,4 @@
-# design-pattern
+# Design Pattern
 
 ### self practice for dp
 1. `abstract factory` can init object from different ways without break origin code. 
