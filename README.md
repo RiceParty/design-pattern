@@ -5,7 +5,7 @@
 
   Really a good way to produce objects so it's called factory pattern.
   
-  Because the factories is abstract, don't need params like factory pattern.
+  Naming abstract is because factories is designed to be abstract. So when new object to be created, only new abstract factory and new object files create, no invading old codes.
   
   ~~~
 example: produce gift for girls.
@@ -19,6 +19,6 @@ example: produce gift for girls.
   example: produce too. params and enum ways.
   ~~~
 
-3. `strategy' to be continued
+3. `strategy` to be continued
 
 ## I wish i can keep on coding contiuous ~~
