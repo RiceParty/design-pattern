@@ -5,7 +5,7 @@
 
   Really a good way to produce objects so it's called factory pattern.
   
-  Naming abstract is because factories is designed to be abstract. So when new object to be created, only new abstract factory and new object files create, no invading old codes.
+  Naming abstract because factories are designed to be abstract. So when new objects are creating, only new abstract factory and new object files are created, no invading old codes.
   
   ~~~
 example: produce gift for girls.
