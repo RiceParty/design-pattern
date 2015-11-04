@@ -16,7 +16,7 @@ example: produce gift for girls.
   But everytime you want a new type of object, inserting new code would be done, which is not expected.
   
   ~~~
-  example: produce too. params and enum ways.
+  example: produce gifts too. params and enum ways.
   ~~~
 
 3. `strategy` to be continued
