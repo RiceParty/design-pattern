@@ -19,6 +19,16 @@ example: produce gift for girls.
   example: produce gifts too. params and enum ways.
   ~~~
 
-3. `strategy` to be continued
+3. `strategy` is used for different action.
+
+  when we want to do a certain operation to a obj, we can seperate operation's definition and implement. 
+  
+  So that we can put whatever operation we want to affect this obj.
+  
+  ~~~
+  example: i want to make a gift by judging my budget. Like a filter.
+  ~~~
+
+4. `adapter` to be continued
 
 ## I wish i can keep on coding contiuous ~~
