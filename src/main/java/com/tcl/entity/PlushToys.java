@@ -1,4 +1,4 @@
-package com.tcl.abstractfactory;
+package com.tcl.entity;
 
 /**
  * @author tcl

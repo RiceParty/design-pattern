@@ -1,5 +1,7 @@
 package com.tcl.abstractfactory;
 
+import com.tcl.entity.Gift;
+
 /**
  * @author tcl
  */

@@ -1,9 +1,9 @@
 package com.tcl.factory;
 
 import com.google.common.base.Preconditions;
-import com.tcl.abstractfactory.Gift;
-import com.tcl.abstractfactory.Perfume;
-import com.tcl.abstractfactory.PlushToys;
+import com.tcl.entity.Gift;
+import com.tcl.entity.Perfume;
+import com.tcl.entity.PlushToys;
 
 /**
  * @author tcl
