@@ -29,6 +29,8 @@ example: produce gift for girls.
   example: i want to make a gift by judging my budget. Like a filter.
   ~~~
 
-4. `adapter` to be continued
+4. `iterator` used for ergodic collections.
+
+  this example comes out thinking in java. i haven't know this pattern well. only for record.
 
 ## I wish i can keep on coding contiuous ~~
