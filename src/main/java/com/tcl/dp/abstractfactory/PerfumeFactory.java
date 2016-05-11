@@ -1,7 +1,7 @@
-package com.tcl.abstractfactory;
+package com.tcl.dp.abstractfactory;
 
-import com.tcl.entity.Gift;
-import com.tcl.entity.Perfume;
+import com.tcl.dp.entity.Gift;
+import com.tcl.dp.entity.Perfume;
 
 /**
  * @author tcl

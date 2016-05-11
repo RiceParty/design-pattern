@@ -1,8 +1,8 @@
-package com.tcl.strategy;
+package com.tcl.dp.strategy;
 
-import com.tcl.abstractfactory.AbstractFactories;
-import com.tcl.abstractfactory.PerfumeFactory;
-import com.tcl.entity.Gift;
+import com.tcl.dp.abstractfactory.AbstractFactories;
+import com.tcl.dp.abstractfactory.PerfumeFactory;
+import com.tcl.dp.entity.Gift;
 
 /**
  * @author tcl

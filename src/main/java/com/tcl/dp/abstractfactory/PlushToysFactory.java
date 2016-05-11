@@ -1,7 +1,7 @@
-package com.tcl.abstractfactory;
+package com.tcl.dp.abstractfactory;
 
-import com.tcl.entity.Gift;
-import com.tcl.entity.PlushToys;
+import com.tcl.dp.entity.Gift;
+import com.tcl.dp.entity.PlushToys;
 
 /**
  * @author tcl

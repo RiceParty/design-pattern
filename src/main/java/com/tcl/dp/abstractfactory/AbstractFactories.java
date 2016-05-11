@@ -1,6 +1,6 @@
-package com.tcl.abstractfactory;
+package com.tcl.dp.abstractfactory;
 
-import com.tcl.entity.Gift;
+import com.tcl.dp.entity.Gift;
 
 /**
  * @author tcl

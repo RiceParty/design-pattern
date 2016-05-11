@@ -1,4 +1,4 @@
-package com.tcl.generator;
+package com.tcl.dp.generator;
 
 /**
  * @author tcl

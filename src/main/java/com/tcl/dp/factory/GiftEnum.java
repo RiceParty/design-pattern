@@ -1,8 +1,8 @@
-package com.tcl.factory;
+package com.tcl.dp.factory;
 
-import com.tcl.entity.Gift;
-import com.tcl.entity.Perfume;
-import com.tcl.entity.PlushToys;
+import com.tcl.dp.entity.Gift;
+import com.tcl.dp.entity.Perfume;
+import com.tcl.dp.entity.PlushToys;
 
 /**
  * @author tcl

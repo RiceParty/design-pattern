@@ -1,4 +1,4 @@
-package com.tcl.entity;
+package com.tcl.dp.entity;
 
 /**
  * @author tcl

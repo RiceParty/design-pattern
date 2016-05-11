@@ -1,13 +1,12 @@
-package com.tcl.entity;
+package com.tcl.dp.entity;
 
 /**
  * @author tcl
  */
-public class PlushToys implements Gift {
+public class Perfume implements Gift {
     public String getDes() {
-        return "i am plush toys. Most girls like me for a company!";
+        return "i am perfume. Most girls like me to perform better!";
     }
-
 
     @Override
     public String toString() {

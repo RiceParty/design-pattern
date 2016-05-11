@@ -1,6 +1,6 @@
-package com.tcl.strategy;
+package com.tcl.dp.strategy;
 
-import com.tcl.entity.Gift;
+import com.tcl.dp.entity.Gift;
 
 /**
  * @author tcl
